@@ -1,0 +1,14 @@
+﻿빌드 시작: 2018-05-30 오전 11:47:35
+     1>2 노드의 "D:\JungJaeho\STUDY\3-1\운영체제\과제\feedback\feedback\feedback.vcxproj" 프로젝트(build 대상)입니다.
+     1>InitializeBuildStatus:
+         "Release\feedback.unsuccessfulbuild"에 연결(touching)하고 있습니다.
+       ClCompile:
+         모든 출력이 최신 상태입니다.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\JungJaeho\STUDY\3-1\운영체제\과제\feedback\Release\feedback.exe" /INCREMENTAL:NO /NOLOGO /MANIFEST /ManifestFile:"Release\feedback.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\JungJaeho\STUDY\3-1\운영체제\과제\feedback\Release\feedback.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\JungJaeho\STUDY\3-1\운영체제\과제\feedback\Release\feedback.lib" /MACHINE:X86 Release\hrrn2.obj
+     1>LINK : fatal error LNK1104: 'D:\JungJaeho\STUDY\3-1\운영체제\과제\feedback\Release\feedback.exe' 파일을 열 수 없습니다.
+     1>"D:\JungJaeho\STUDY\3-1\운영체제\과제\feedback\feedback\feedback.vcxproj" 프로젝트를 빌드했습니다(build 대상). - 실패
+
+빌드하지 못했습니다.
+
+경과 시간: 00:00:00.17
